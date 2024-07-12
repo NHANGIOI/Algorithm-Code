@@ -1,0 +1,5 @@
+Ví dụ: Xét bài toán: Cho N người và N công việc, mỗi nhiệm vụ được phân công cho từng người.
+Nói cách khác, chúng ta có một ma trận cost với kích thước N ×N, với cost[i][j] được hiểu là 
+chi phí để người i hoàn thành nhiệm vụ j. Bây giờ chúng ta cần sắp xếp mỗi nhiệm vụ cho mỗi người 
+sao cho tổng giá trị là nhỏ nhất. Lưu ý rằng mỗi nhiệm vụ sẽ được giao cho một người và mỗi người 
+chỉ được chọn một nhiệm vụ.
